@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestAionys.Abstraction\TestAionys.Abstraction.csproj" />
+    <ProjectReference Include="..\TestAionys.Context\TestAionys.Context.csproj" />
+  </ItemGroup>
+
+</Project>

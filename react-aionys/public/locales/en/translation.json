@@ -1,0 +1,11 @@
+{
+  "buttons": {
+    "back": "Back",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "done": "Done"
+  },
+  "message":{
+    "addNote":"Please enter note name"
+  }
+}

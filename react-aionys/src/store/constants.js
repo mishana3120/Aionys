@@ -1,0 +1,3 @@
+export const LOAD_ALL_NOTES = "LOAD_ALL_NOTES";
+export const SET_ALL_NOTES = "SET_ALL_NOTES";
+export const SET_CURRENT_NOTE = "SET_CURRENT_NOTE";
