@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {
+    "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj",
         "projectName": "TestAionys.Abstraction",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

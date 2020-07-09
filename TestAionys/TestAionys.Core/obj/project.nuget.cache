@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLTxj9VVN1iD5nl4lc1xXGhch37AmH9z9hwRdoMcOQGi7xkNy3wA6yOm+k1HTOtNoTsiJFHPseD1/6hr37+VKA==",
+  "dgSpecHash": "mZYF/3UvBmSHf12l68RqOeZAdO1MJngtfLluUpKveW/aM/ZC77Nlw8LvzuXvTvHVKOMqqq2u7R6JCbGQf86Asw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

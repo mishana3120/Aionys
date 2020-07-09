@@ -12,3 +12,17 @@ C:\Users\User\source\repos\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\Te
 C:\Users\User\source\repos\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.csproj.CopyComplete
 C:\Users\User\source\repos\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.dll
 C:\Users\User\source\repos\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Core.deps.json
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Core.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Core.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Abstraction.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Context.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Abstraction.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\bin\Debug\netcoreapp3.1\TestAionys.Context.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.csproj.CopyComplete
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Core\obj\Debug\netcoreapp3.1\TestAionys.Core.pdb

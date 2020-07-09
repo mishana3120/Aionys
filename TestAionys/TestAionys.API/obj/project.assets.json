@@ -5159,11 +5159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.API\\TestAionys.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.API\\TestAionys.API.csproj",
       "projectName": "TestAionys.API",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.API\\TestAionys.API.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.API\\TestAionys.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.API\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5182,14 +5182,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj"
+            "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Abstraction\\TestAionys.Abstraction.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj"
+            "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj"
+            "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Core\\TestAionys.Core.csproj"
             }
           }
         }

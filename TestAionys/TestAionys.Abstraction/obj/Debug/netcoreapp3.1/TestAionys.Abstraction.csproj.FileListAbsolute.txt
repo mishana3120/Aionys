@@ -7,3 +7,12 @@ C:\Users\User\source\repos\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreap
 C:\Users\User\source\repos\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.dll
 C:\Users\User\source\repos\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\bin\Debug\netcoreapp3.1\TestAionys.Abstraction.deps.json
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\bin\Debug\netcoreapp3.1\TestAionys.Abstraction.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\bin\Debug\netcoreapp3.1\TestAionys.Abstraction.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.AssemblyInfo.cs
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Abstraction\obj\Debug\netcoreapp3.1\TestAionys.Abstraction.pdb

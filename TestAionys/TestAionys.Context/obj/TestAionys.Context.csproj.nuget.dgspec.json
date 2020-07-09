@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {
+    "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj",
         "projectName": "TestAionys.Context",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\TestAionys.Context.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TestAionys\\TestAionys.Context\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Aionys\\TestAionys\\TestAionys.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

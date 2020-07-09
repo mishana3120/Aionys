@@ -10,3 +10,15 @@ C:\Users\User\source\repos\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1
 C:\Users\User\source\repos\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.dll
 C:\Users\User\source\repos\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.pdb
 C:\Users\User\source\repos\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.genruntimeconfig.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\bin\Debug\netcoreapp3.1\TestAionys.Context.deps.json
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\bin\Debug\netcoreapp3.1\TestAionys.Context.runtimeconfig.json
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\bin\Debug\netcoreapp3.1\TestAionys.Context.runtimeconfig.dev.json
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\bin\Debug\netcoreapp3.1\TestAionys.Context.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\bin\Debug\netcoreapp3.1\TestAionys.Context.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.AssemblyInfo.cs
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.dll
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.pdb
+C:\Users\User\source\repos\Aionys\TestAionys\TestAionys.Context\obj\Debug\netcoreapp3.1\TestAionys.Context.genruntimeconfig.cache
